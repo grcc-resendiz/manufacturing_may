@@ -71,6 +71,9 @@ Topics covered:
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/grcc-resendiz/teachable-machine-demo)
 
+[Link to Day 2 Vibe Coding Presentation](https://docs.google.com/presentation/d/1THIQ7ZENPiQEe_hKXwcM-64sqOeYFBYZ/edit?usp=sharing&ouid=108717541017706732541&rtpof=true&sd=true)
+
+
 ---
 
 ## Day 3 – Predictive Maintenance with Orange Data Mining  
