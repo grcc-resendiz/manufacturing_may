@@ -58,7 +58,7 @@ Topics covered:
 - Hands-on: training a defect detection model with **Teachable Machine**  
 - Model evaluation and deployment discussion using TensorFlow  
 
-- Introduction to vibe coding using tools like Claude Code or Codex  
+- Introduction to vibe coding using tools like AI Studio, Claude Code, or Codex  
 - Using AI-assisted coding to quickly prototype solutions  
 - Applying coding workflows to extend computer vision and AI use cases  
 
