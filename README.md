@@ -100,7 +100,7 @@ Topics covered:
 
 **Presentation**
 
-[Link to Day 3 Presentation](https://docs.google.com/presentation/d/1hYQoOJBxLB34btGWkuSAqpXJ2P3_6q7_/edit?usp=sharing&ouid=108717541017706732541&rtpof=true&sd=true)
+[Link to Day 3 Presentation](https://docs.google.com/presentation/d/1C0SvIFoML8mqn_vWM7uPKV0aN33XJOJ9/edit?slide=id.p1#slide=id.p1)
 
 ### Predictive Maintenance ML Demo  
 
