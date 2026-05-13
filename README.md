@@ -101,7 +101,7 @@ Topics covered:
 **Presentation**
 
 
-[Link to Day 3 Presentation](https://notebooklm.google.com/notebook/6f5fc899-d689-4c31-aeac-1c9c11ddd671)
+[NotebookLM Tool](https://notebooklm.google.com/notebook/6f5fc899-d689-4c31-aeac-1c9c11ddd671)
 
 [Link to Day 3 Presentation](https://docs.google.com/presentation/d/1C0SvIFoML8mqn_vWM7uPKV0aN33XJOJ9/edit?slide=id.p1#slide=id.p1)
 
